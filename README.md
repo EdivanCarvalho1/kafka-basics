@@ -85,7 +85,7 @@ Para permitir conexões externas, edite o arquivo `server.properties`:
 vim ~/kafka_2.12-3.9.1/config/server.properties
 ```
 
-editar listeners=PLAINTEXT://localhost:9092 ou listeners=PLAINTEXT://[::1]:9092
+Editar listeners=PLAINTEXT://localhost:9092 ou listeners=PLAINTEXT://[::1]:9092
 
 ## 3. Componentes
 
